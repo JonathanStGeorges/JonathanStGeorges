@@ -85,7 +85,7 @@ I develop robot software, operator tooling, simulations, embedded systems and en
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonathanStGeorges&show_icons=true&hide_border=true&theme=github_dark_dimmed&include_all_commits=true&rank_icon=github&border_radius=12" alt="Jonathan's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanStGeorges&theme=github-dark-blue&hide_border=true&border_radius=12" alt="Jonathan's GitHub contribution streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=JonathanStGeorges&theme=github-dark-blue&hide_border=true&border_radius=12" alt="Jonathan's GitHub contribution streak" />
 </p>
 
 <p align="center">
