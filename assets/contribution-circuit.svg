@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+  <title id="title">Animated contribution circuit</title>
+  <desc id="desc">A decorative repository-hosted circuit animation representing connected engineering disciplines.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#101827"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="1098" height="188" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <g stroke="#21262d"><path d="M40 45 H1060 M40 95 H1060 M40 145 H1060"/><path d="M90 25 V165 M240 25 V165 M390 25 V165 M550 25 V165 M710 25 V165 M860 25 V165 M1010 25 V165"/></g>
+  <path id="route" d="M90 145 H240 V45 H390 V95 H550 V145 H710 V45 H860 V95 H1010" fill="none" stroke="#58a6ff" stroke-width="3" stroke-dasharray="12 10"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur="2.2s" repeatCount="indefinite"/></path>
+  <g fill="#0d1117" stroke="#58a6ff" stroke-width="2"><circle cx="90" cy="145" r="10"/><circle cx="240" cy="45" r="10"/><circle cx="390" cy="95" r="10"/><circle cx="550" cy="145" r="10"/><circle cx="710" cy="45" r="10"/><circle cx="860" cy="95" r="10"/><circle cx="1010" cy="95" r="10"/></g>
+  <circle r="7" fill="#3fb950" filter="url(#glow)"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#route"/></animateMotion></circle>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11" text-anchor="middle" fill="#c9d1d9"><text x="90" y="176">ROBOTICS</text><text x="240" y="22">CONTROL</text><text x="390" y="124">VISION</text><text x="550" y="176">SIMULATION</text><text x="710" y="22">EMBEDDED</text><text x="860" y="124">AI AGENTS</text><text x="1010" y="124">TOOLS</text></g>
+</svg>

@@ -1,21 +1,104 @@
-# 💫 About Me:
-🔭 I’m currently working on ASLRobotics Template for FRC Season 2024<br><br>🌱 I’m currently learning C and React JS<br><br>👯 I’m looking to collaborate on anything someone wants me to put on<br><br>🤝 I’m looking for help with nothing right now<br><br>👨‍💻 All of my projects are available at https://github.com/EXIBIST32132<br><br>💬 Ask me about anything concerning robotics and code<br><br>📫 How to reach me Jonathan_stgeorges@asl.org<br><br>📄 Know about my experiences https://github.com/EXIBIST32132<br><br>⚡ Fun fact I know how to find web vulnerabilities
+<p align="center">
+  <img src="./assets/animated-header.svg" width="100%" alt="Animated engineering header for Jonathan St-Georges" />
+</p>
 
+<p align="center">
+  <img src="./assets/animated-subtitle.svg" width="92%" alt="Animated introduction covering robotics, autonomous systems and simulation" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EXIBIST32132&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EXIBIST32132&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EXIBIST32132&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <strong><a href="https://github.com/JonathanStGeorges?tab=repositories">EXPLORE PROJECTS</a></strong>
+  &nbsp;·&nbsp;
+  <strong><a href="https://github.com/JonathanStGeorges/Portfolio">PORTFOLIO</a></strong>
+  &nbsp;·&nbsp;
+  <strong><a href="https://github.com/FRC1884">FRC TEAM 1884</a></strong>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## `// SYSTEM PROFILE`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EXIBIST32132&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```text
+IDENTITY   Jonathan St-Georges / JJ / EXIBIST
+ROLE       Robotics and software engineering student
+MISSION    Build autonomous systems that connect software, electronics and mechanics
+FOCUS      Control • Navigation • Simulation • Computer Vision • Agentic Engineering
+TEAM       FRC 1884 — The Griffins
+STATUS     Building, testing and iterating
+```
+
+I develop robot software, operator tooling, simulations, embedded systems and engineering infrastructure. My work generally sits at the boundary between **physical hardware and intelligent software**: sensors, motor controllers and single-board computers on one side; control algorithms, autonomous planning, web interfaces and developer tooling on the other.
+
+## `// FEATURED BUILDS`
+
+<p align="center">
+  <a href="https://github.com/JonathanStGeorges/Season2026">
+    <img width="49%" src="./assets/project-season2026.svg" alt="Open the FRC Season 2026 repository" />
+  </a>
+  <a href="https://github.com/JonathanStGeorges/3D_DronePathPlanner">
+    <img width="49%" src="./assets/project-drone.svg" alt="Open the 3D Drone PathPlanner repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JonathanStGeorges/Portfolio">
+    <img width="49%" src="./assets/project-portfolio.svg" alt="Open the JJ EXIBIST Portfolio repository" />
+  </a>
+  <a href="https://github.com/JonathanStGeorges/PhysicsEngine">
+    <img width="49%" src="./assets/project-physics.svg" alt="Open the PhysicsEngine repository" />
+  </a>
+</p>
+
+- **Competition robotics:** swerve controls, autonomous alignment, PathPlanner, PhotonVision, AdvantageKit logging, simulation and tablet operator interfaces.
+- **Autonomous vehicles:** three-dimensional path design, spline visualization, flight-path tooling and hardware communication.
+- **Engineering platforms:** AI-assisted development workflows, monitoring systems, reusable tooling and technical portfolio infrastructure.
+- **Simulation and graphics:** experimental physics, game-engine architecture, rendering systems and deterministic simulation.
+
+## `// ENGINEERING STACK`
+
+<p align="center">
+  <img width="100%" src="./assets/tech-stack.svg" alt="Animated map of Jonathan's primary engineering languages and tools" />
+</p>
+
+<table>
+  <tr>
+    <td align="center"><strong>Robotics</strong><br />WPILib · AdvantageKit · PathPlanner · PhotonVision · ROS 2</td>
+    <td align="center"><strong>Embedded</strong><br />ESP32 · Teensy · Orange Pi · Sensors · Motor Control</td>
+    <td align="center"><strong>Software</strong><br />Java · C++ · Python · TypeScript · React</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Simulation</strong><br />Physics · Control Systems · 3D Visualization · Digital Twins</td>
+    <td align="center"><strong>Infrastructure</strong><br />Linux · GitHub Actions · Docker · Developer Tooling</td>
+    <td align="center"><strong>AI Systems</strong><br />Agents · Local Models · Memory Systems · Evaluation</td>
+  </tr>
+</table>
+
+## `// CURRENT OPERATING WINDOW`
+
+- Developing autonomous alignment, pathfinding and operator workflows for competition robotics
+- Building simulation-first processes so behavior can be tested before hardware is complete
+- Exploring agentic coding systems with review, monitoring and reproducible engineering guardrails
+- Prototyping embedded electronics, feedback-control systems and hardware–software interfaces
+- Creating interactive tools that make complex engineering systems easier to operate and understand
+
+## `// ENGINEERING TELEMETRY`
+
+<p align="center">
+  <img width="100%" src="./assets/engineering-telemetry.svg" alt="Animated engineering telemetry dashboard" />
+</p>
+
+This dashboard describes my active engineering domains and workflow. It deliberately avoids fabricated contribution counts or unreliable third-party statistics.
+
+## `// CONTRIBUTION CIRCUIT`
+
+<p align="center">
+  <img width="100%" src="./assets/contribution-circuit.svg" alt="Animated circuit connecting robotics, control, vision, simulation, embedded systems, AI agents and developer tools" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EXIBIST32132&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <strong>Open to collaborations involving robotics, autonomous systems, simulation, developer tools and engineering education.</strong>
+</p>
+
+<p align="center">
+  <sub>Build the system. Instrument it. Break assumptions. Iterate.</sub>
+</p>
