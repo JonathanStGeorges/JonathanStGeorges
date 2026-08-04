@@ -1,74 +1,111 @@
-<h1 align="center">Jonathan St-Georges</h1>
-
 <p align="center">
-  <strong>Robotics & Software Engineering Student</strong>
+  <img src="./assets/animated-header.svg" width="100%" alt="Animated engineering header for Jonathan St-Georges" />
 </p>
 
 <p align="center">
-  I build autonomous systems, control software, developer tools, and interactive simulations.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Robotics+%2B+Software+Engineering;Autonomous+Systems+%7C+Control+%7C+Simulation;Building+tools+that+bridge+hardware+and+software;Turning+engineering+ideas+into+working+systems" alt="Animated typing introduction" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JonathanStGeorges?tab=repositories">Projects</a>
-  ·
-  <a href="https://github.com/JonathanStGeorges/Portfolio">Portfolio</a>
-  ·
-  <a href="https://github.com/FRC1884">FRC Team 1884</a>
+  <a href="https://github.com/JonathanStGeorges?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore projects" /></a>
+  <a href="https://github.com/JonathanStGeorges/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=3FB950" alt="Portfolio" /></a>
+  <a href="https://github.com/FRC1884"><img src="https://img.shields.io/badge/FRC_1884-0D1117?style=for-the-badge&logo=first&logoColor=BC8CFF" alt="FRC Team 1884" /></a>
 </p>
 
-## About
+## `// SYSTEM PROFILE`
 
-- I develop robot software and operator tooling for **FRC Team 1884 — The Griffins**.
-- My main interests are autonomous navigation, control systems, path planning, computer vision, simulation, embedded systems, and agentic AI.
-- I work across the full engineering stack: from sensors, motor controllers, and single-board computers to web interfaces and developer infrastructure.
-- I primarily build with **Java, C++, Python, TypeScript, and React** on Linux, macOS, and Windows.
+```text
+IDENTITY   Jonathan St-Georges / JJ / EXIBIST
+ROLE       Robotics and software engineering student
+MISSION    Build autonomous systems that connect software, electronics and mechanics
+FOCUS      Control • Navigation • Simulation • Computer Vision • Agentic Engineering
+TEAM       FRC 1884 — The Griffins
+STATUS     Building, testing and iterating
+```
 
-## Selected Projects
+I develop robot software, operator tooling, simulations, embedded systems and engineering infrastructure. My work generally sits at the boundary between **physical hardware and intelligent software**: sensors, motor controllers and single-board computers on one side; control algorithms, autonomous planning, web interfaces and developer tooling on the other.
 
-| Project | What it does | Main technologies |
-| --- | --- | --- |
-| [FRC Season 2026](https://github.com/JonathanStGeorges/Season2026) | Robot software with swerve controls, autonomous alignment, simulation, AdvantageKit logging, and a tablet-based operator interface. | Java, WPILib, AdvantageKit, PathPlanner, PhotonVision |
-| [3D Drone PathPlanner](https://github.com/JonathanStGeorges/3D_DronePathPlanner) | A desktop editor for creating, visualizing, saving, and running 3D spline paths for foam planes and drones. | Java, JavaFX, Maven, Gson |
-| [JJ / EXIBIST Portfolio](https://github.com/JonathanStGeorges/Portfolio) | A custom technical portfolio for presenting engineering projects, experience, and ongoing work. | Next.js, React, TypeScript, Tailwind CSS |
-| [PhysicsEngine](https://github.com/JonathanStGeorges/PhysicsEngine) | Experimental physics and game-engine development used to explore simulation and rendering systems. | C++, CMake, graphics and physics tooling |
-
-## Core Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-## Current Focus
-
-- Autonomous robot alignment and pathfinding
-- Operator interfaces for competition robotics
-- Simulation-first robotics development
-- AI-assisted engineering and agentic coding workflows
-- Embedded electronics, control systems, and hardware-software integration
-
-## GitHub Activity
+## `// FEATURED BUILDS`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathanStGeorges&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Jonathan's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanStGeorges&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Jonathan's most-used public repository languages" />
+  <a href="https://github.com/JonathanStGeorges/Season2026">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=Season2026&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="FRC Season 2026 repository card" />
+  </a>
+  <a href="https://github.com/JonathanStGeorges/3D_DronePathPlanner">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=3D_DronePathPlanner&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="3D Drone PathPlanner repository card" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/JonathanStGeorges/Portfolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=Portfolio&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="Portfolio repository card" />
+  </a>
+  <a href="https://github.com/JonathanStGeorges/PhysicsEngine">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=PhysicsEngine&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="PhysicsEngine repository card" />
+  </a>
+</p>
+
+### What these projects cover
+
+- **Competition robotics:** swerve controls, autonomous alignment, PathPlanner, PhotonVision, AdvantageKit logging, simulation and tablet operator interfaces.
+- **Autonomous vehicles:** three-dimensional path design, spline visualization, flight-path tooling and hardware communication.
+- **Engineering platforms:** AI-assisted development workflows, monitoring systems, reusable tooling and technical portfolio infrastructure.
+- **Simulation and graphics:** experimental physics, game-engine architecture, rendering systems and deterministic simulation.
+
+## `// ENGINEERING STACK`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,ts,react,nextjs,linux,cmake,arduino,opencv,git,githubactions&perline=6&theme=dark" alt="Java, C++, Python, TypeScript, React, Next.js, Linux, CMake, Arduino, OpenCV, Git and GitHub Actions" />
+</p>
+
+<table>
+  <tr>
+    <td align="center"><strong>Robotics</strong><br />WPILib · AdvantageKit · PathPlanner · PhotonVision · ROS 2</td>
+    <td align="center"><strong>Embedded</strong><br />ESP32 · Teensy · Orange Pi · Sensors · Motor Control</td>
+    <td align="center"><strong>Software</strong><br />Java · C++ · Python · TypeScript · React</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Simulation</strong><br />Physics · Control Systems · 3D Visualization · Digital Twins</td>
+    <td align="center"><strong>Infrastructure</strong><br />Linux · GitHub Actions · Docker · Developer Tooling</td>
+    <td align="center"><strong>AI Systems</strong><br />Agents · Local Models · Memory Systems · Evaluation</td>
+  </tr>
+</table>
+
+## `// CURRENT OPERATING WINDOW`
+
+- Developing autonomous alignment, pathfinding and operator workflows for competition robotics
+- Building simulation-first processes so behavior can be tested before hardware is complete
+- Exploring agentic coding systems with review, monitoring and reproducible engineering guardrails
+- Prototyping embedded electronics, feedback-control systems and hardware–software interfaces
+- Creating interactive tools that make complex engineering systems easier to operate and understand
+
+## `// LIVE TELEMETRY`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonathanStGeorges&show_icons=true&hide_border=true&theme=github_dark_dimmed&include_all_commits=true&rank_icon=github&border_radius=12" alt="Jonathan's GitHub statistics" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanStGeorges&theme=github-dark-blue&hide_border=true&border_radius=12" alt="Jonathan's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanStGeorges&theme=github-compact&hide_border=true&area=true&radius=12&custom_title=Engineering%20Activity" alt="Jonathan's recent GitHub activity graph" />
+</p>
+
+## `// CONTRIBUTION CIRCUIT`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanStGeorges/JonathanStGeorges/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonathanStGeorges/JonathanStGeorges/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/JonathanStGeorges/JonathanStGeorges/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 <p align="center">
-  Open to collaborations involving robotics, autonomous systems, simulations, developer tools, and engineering education.
+  <strong>Open to collaborations involving robotics, autonomous systems, simulation, developer tools and engineering education.</strong>
+</p>
+
+<p align="center">
+  <sub>Build the system. Instrument it. Break assumptions. Iterate.</sub>
 </p>
