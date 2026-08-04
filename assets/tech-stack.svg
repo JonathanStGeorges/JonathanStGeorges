@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering technology stack</title>
+  <desc id="desc">A repository-hosted animated diagram of Jonathan's primary languages and engineering tools.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#101827"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="1098" height="228" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <text x="32" y="35" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="12" fill="#58a6ff" letter-spacing="2">CORE TOOLCHAIN MAP</text>
+  <path d="M78 86 H1022 M78 164 H1022" stroke="#21262d" stroke-width="2"/>
+  <path d="M92 86 H1008" stroke="#58a6ff" stroke-width="2" stroke-dasharray="10 15" opacity=".65"><animate attributeName="stroke-dashoffset" from="0" to="-50" dur="3s" repeatCount="indefinite"/></path>
+  <path d="M1008 164 H92" stroke="#3fb950" stroke-width="2" stroke-dasharray="10 15" opacity=".65"><animate attributeName="stroke-dashoffset" from="0" to="50" dur="3.4s" repeatCount="indefinite"/></path>
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" text-anchor="middle">
+    <g fill="#0d1117" stroke="#58a6ff"><rect x="42" y="55" width="140" height="54" rx="12"/><rect x="218" y="55" width="140" height="54" rx="12"/><rect x="394" y="55" width="140" height="54" rx="12"/><rect x="570" y="55" width="140" height="54" rx="12"/><rect x="746" y="55" width="140" height="54" rx="12"/><rect x="922" y="55" width="136" height="54" rx="12"/></g>
+    <g fill="#0d1117" stroke="#3fb950"><rect x="42" y="133" width="140" height="54" rx="12"/><rect x="218" y="133" width="140" height="54" rx="12"/><rect x="394" y="133" width="140" height="54" rx="12"/><rect x="570" y="133" width="140" height="54" rx="12"/><rect x="746" y="133" width="140" height="54" rx="12"/><rect x="922" y="133" width="136" height="54" rx="12"/></g>
+    <g font-size="15" font-weight="700" fill="#f0f6fc"><text x="112" y="88">JAVA</text><text x="288" y="88">C++</text><text x="464" y="88">PYTHON</text><text x="640" y="88">TYPESCRIPT</text><text x="816" y="88">REACT</text><text x="990" y="88">NEXT.JS</text><text x="112" y="166">LINUX</text><text x="288" y="166">CMAKE</text><text x="464" y="166">ARDUINO</text><text x="640" y="166">OPENCV</text><text x="816" y="166">GIT</text><text x="990" y="166">CI / CD</text></g>
+  </g>
+  <circle cx="78" cy="86" r="5" fill="#58a6ff" filter="url(#glow)"><animate attributeName="cx" values="78;1022;78" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="1022" cy="164" r="5" fill="#3fb950" filter="url(#glow)"><animate attributeName="cx" values="1022;78;1022" dur="6.6s" repeatCount="indefinite"/></circle>
+  <text x="550" y="214" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11" fill="#6e7681">ROBOTICS · EMBEDDED · SIMULATION · AI SYSTEMS · WEB INTERFACES</text>
+</svg>
