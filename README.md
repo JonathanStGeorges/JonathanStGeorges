@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Robotics+%2B+Software+Engineering;Autonomous+Systems+%7C+Control+%7C+Simulation;Building+tools+that+bridge+hardware+and+software;Turning+engineering+ideas+into+working+systems" alt="Animated typing introduction" />
-  </a>
+  <img src="./assets/animated-subtitle.svg" width="92%" alt="Animated introduction covering robotics, autonomous systems and simulation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/JonathanStGeorges?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore projects" /></a>
-  <a href="https://github.com/JonathanStGeorges/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=3FB950" alt="Portfolio" /></a>
-  <a href="https://github.com/FRC1884"><img src="https://img.shields.io/badge/FRC_1884-0D1117?style=for-the-badge&logo=first&logoColor=BC8CFF" alt="FRC Team 1884" /></a>
+  <strong><a href="https://github.com/JonathanStGeorges?tab=repositories">EXPLORE PROJECTS</a></strong>
+  &nbsp;·&nbsp;
+  <strong><a href="https://github.com/JonathanStGeorges/Portfolio">PORTFOLIO</a></strong>
+  &nbsp;·&nbsp;
+  <strong><a href="https://github.com/FRC1884">FRC TEAM 1884</a></strong>
 </p>
 
 ## `// SYSTEM PROFILE`
@@ -31,23 +31,21 @@ I develop robot software, operator tooling, simulations, embedded systems and en
 
 <p align="center">
   <a href="https://github.com/JonathanStGeorges/Season2026">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=Season2026&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="FRC Season 2026 repository card" />
+    <img width="49%" src="./assets/project-season2026.svg" alt="Open the FRC Season 2026 repository" />
   </a>
   <a href="https://github.com/JonathanStGeorges/3D_DronePathPlanner">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=3D_DronePathPlanner&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="3D Drone PathPlanner repository card" />
+    <img width="49%" src="./assets/project-drone.svg" alt="Open the 3D Drone PathPlanner repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JonathanStGeorges/Portfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=Portfolio&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="Portfolio repository card" />
+    <img width="49%" src="./assets/project-portfolio.svg" alt="Open the JJ EXIBIST Portfolio repository" />
   </a>
   <a href="https://github.com/JonathanStGeorges/PhysicsEngine">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanStGeorges&repo=PhysicsEngine&theme=github_dark_dimmed&hide_border=true&border_radius=12&description_lines_count=2" alt="PhysicsEngine repository card" />
+    <img width="49%" src="./assets/project-physics.svg" alt="Open the PhysicsEngine repository" />
   </a>
 </p>
-
-### What these projects cover
 
 - **Competition robotics:** swerve controls, autonomous alignment, PathPlanner, PhotonVision, AdvantageKit logging, simulation and tablet operator interfaces.
 - **Autonomous vehicles:** three-dimensional path design, spline visualization, flight-path tooling and hardware communication.
@@ -57,7 +55,7 @@ I develop robot software, operator tooling, simulations, embedded systems and en
 ## `// ENGINEERING STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,ts,react,nextjs,linux,cmake,arduino,opencv,git,githubactions&perline=6&theme=dark" alt="Java, C++, Python, TypeScript, React, Next.js, Linux, CMake, Arduino, OpenCV, Git and GitHub Actions" />
+  <img width="100%" src="./assets/tech-stack.svg" alt="Animated map of Jonathan's primary engineering languages and tools" />
 </p>
 
 <table>
@@ -81,24 +79,19 @@ I develop robot software, operator tooling, simulations, embedded systems and en
 - Prototyping embedded electronics, feedback-control systems and hardware–software interfaces
 - Creating interactive tools that make complex engineering systems easier to operate and understand
 
-## `// LIVE TELEMETRY`
+## `// ENGINEERING TELEMETRY`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonathanStGeorges&show_icons=true&hide_border=true&theme=github_dark_dimmed&include_all_commits=true&rank_icon=github&border_radius=12" alt="Jonathan's GitHub statistics" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=JonathanStGeorges&theme=github-dark-blue&hide_border=true&border_radius=12" alt="Jonathan's GitHub contribution streak" />
+  <img width="100%" src="./assets/engineering-telemetry.svg" alt="Animated engineering telemetry dashboard" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanStGeorges&theme=github-compact&hide_border=true&area=true&radius=12&custom_title=Engineering%20Activity" alt="Jonathan's recent GitHub activity graph" />
-</p>
+This dashboard describes my active engineering domains and workflow. It deliberately avoids fabricated contribution counts or unreliable third-party statistics.
 
 ## `// CONTRIBUTION CIRCUIT`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanStGeorges/JonathanStGeorges/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonathanStGeorges/JonathanStGeorges/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/JonathanStGeorges/JonathanStGeorges/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img width="100%" src="./assets/contribution-circuit.svg" alt="Animated circuit connecting robotics, control, vision, simulation, embedded systems, AI agents and developer tools" />
+</p>
 
 ---
 
